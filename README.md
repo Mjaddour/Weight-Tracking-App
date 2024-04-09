@@ -16,3 +16,8 @@ Implementing both features, deletion and updating of entries, posed a challenge 
 
 # In what specific component from your mobile app were you particularly successful in demonstrating your knowledge, skills, and experience?
 Saving user entries was a notably successful aspect of the app development. It served as a valuable learning experience, applying the knowledge gained from classes on data handling. Leveraging what I learned, I successfully implemented the requirement, enabling my app to effectively manage and handle user entries.
+
+
+![Screenshot 2024-04-01 231704](https://github.com/Mjaddour/Food-Tracking-App/assets/71360133/4141303c-a56f-4059-8ab9-28cc6ffa7f33)
+
+![Screenshot 2024-04-01 231454](https://github.com/Mjaddour/Food-Tracking-App/assets/71360133/82df0ba4-f2c4-4379-8ae2-d05a5318ac02)
