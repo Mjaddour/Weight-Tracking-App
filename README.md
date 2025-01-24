@@ -1,6 +1,6 @@
 # App Project
 # Briefly summarize the requirements and the goals of the app you developed. What user needs was this app designed to address?
-The Weight Tracking app is designed to monitor user weight by recording meals, quantity, and weight. The app assists in tracking your weight, enabling you to observe improvements resulting from your diet or indicating the need for a change in your dietary approach.
+Weight Tracking app is designed to monitor user weight by recording meals, quantity, and weight. The app assists in tracking your weight, enabling you to observe improvements resulting from your diet or indicating the need for a change in your dietary approach.
 
 # What screens and features were necessary to support user needs and produce a user-centered UI for the app? How did your UI designs keep users in mind? Why were your designs successful?
 The success of the app relies on the necessity of the screen for uploading meals, quantity, and weight, as it constitutes the primary function and purpose of the application. Consistently maintaining the same theme across all app pages enhances user experience, while the feature to receive notifications serves as a valuable reminder for the user.
